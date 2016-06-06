@@ -1,0 +1,14 @@
+{
+    "name": "g33kidd/wpfork",
+    "description": "Just a fork.",
+    "type": "framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Kidd",
+            "email": "kidd.josh.343@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
