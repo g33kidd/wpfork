@@ -25,3 +25,7 @@ core
   - admin // all the code pertaining to the admin and admin api
   - ...   // all the helpers, utils, classes
 ```
+
+## Some Info
+
+This project uses code from both the official WordPress repository(it is a fork) and the Laravel/Laravel Framework projects.
