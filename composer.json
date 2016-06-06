@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "alpha",
-    "require": {}
+    "require": {
+        "laravel/framework": "^5.2"
+    }
 }
